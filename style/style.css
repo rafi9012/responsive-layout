@@ -84,9 +84,8 @@ text-align: center;
      height: 605px;
      border: 1px solid wheat;
      border-radius: 18px;
-     margin-right: 20px;
-     margin-bottom: 32px;}
-
+     margin-right: 20px;}
+    
 
      .write-laste{
         display: flex;
@@ -97,6 +96,7 @@ text-align: center;
         font-weight: bold;
         font-size: 24px;
         color: #272727;
+        text-decoration: underline;
        
      }
      .third-project{
@@ -140,7 +140,41 @@ text-align: center;
         color: #272727;
         font-weight: 350px;
      }
+     .fourth-project{
+        width: 1922px;
+        height: 622px;
+        background-color:aliceblue;
+        border-radius: 8px;
+        margin-bottom: 128px;
 
+     }
+     .first-title{
+       padding-top: 230px;
+        margin-left: 395px;
+     }
+     .hot{
+        font-weight:bolder ;
+        font-size: 40px;
+        color: #272727;
+     }
+     .fact{
+      font-weight: normal;
+      font-size: 18px;
+     }
+     .red{
+      color: #E55473;
+     }
+     .bap-3{
+      display: flex;
+      
+     }
+.fuldani{
+   width: 318px;
+   height: 420px;
+   padding-left: 200px;
+   padding-right: 42px;
+   padding-top: 100px;
+}
 
 
    
