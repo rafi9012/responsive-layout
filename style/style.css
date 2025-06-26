@@ -1,0 +1,54 @@
+.first-project{
+    width: 1920px;
+    height: 850px;
+background-color:whitesmoke;}
+    
+.bap-1{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.image-1{
+    width: 635px;
+    height: 800px;
+    margin-top: 50px;
+margin-right: 240px;}
+
+   
+
+
+
+
+.flower-section{
+    font-weight: 800;
+    font-size: 80px;
+    color: #272727;
+    margin-left: 240px;
+    margin-bottom: 147px;
+   
+  
+   
+}
+.lorem{
+    font-weight: normal;
+    font-size: 18px;
+    color: #272727;}
+   
+.btn-primary{
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #E55473;
+    border: 1px solid darkcyan;
+    border-radius: 8px;
+    margin-top: 32px;
+    width: 179px;
+    height: 64px;
+   }
+
+.bold{
+    font-weight: 800px;
+    font-size: 80px;
+ margin-top: 197px;
+margin-bottom: 32px;}
+   
