@@ -1,8 +1,8 @@
 .first-project{
     width: 1920px;
     height: 850px;
-background-color:whitesmoke;}
-    
+background-color:whitesmoke;
+margin-bottom: 178px;}
 .bap-1{
     display: flex;
     justify-content: space-between;
@@ -14,20 +14,12 @@ background-color:whitesmoke;}
     margin-top: 50px;
 margin-right: 240px;}
 
-   
-
-
-
-
 .flower-section{
     font-weight: 800;
     font-size: 80px;
     color: #272727;
     margin-left: 240px;
-    margin-bottom: 147px;
-   
-  
-   
+    margin-bottom: 147px; 
 }
 .lorem{
     font-weight: normal;
@@ -51,4 +43,62 @@ margin-right: 240px;}
     font-size: 80px;
  margin-top: 197px;
 margin-bottom: 32px;}
+
+
+.second-project{
+width: 1920px;
+height: 800px;
+}
+.feature{
+    font-weight: 800px;
+    font-size: 40px;
+    color: #272727;
+    justify-content: center;}
+  
+.long{
+    font-weight: normal;
+    font-size: 18px;
+    color: #272727;
+   
+}
+.writing{
+   text-align: center;
+ 
+  
+ 
+}
+.three-image{
+text-align: center;
+ 
+  
+
+  
+ 
+    
+   
+    }
+  
+ .first, .second, .third{
+     background-color: #f0f0f0;
+     width: 464px;
+     height: 605px;
+     border: 1px solid wheat;
+     border-radius: 18px;
+     margin-right: 20px;
+     margin-bottom: 32px;}
+
+
+     .write-laste{
+        display: flex;
+        justify-content: space-evenly;
+     }
+     .pink{
+        font-weight: bold;
+        font-size: 24px;
+        color: #272727;
+        margin-bottom: 128px;
+     }
+
+
+
    
