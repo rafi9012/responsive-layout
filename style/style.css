@@ -68,7 +68,11 @@ height: 800px;
  
 }
 .three-image{
-text-align: center;
+   
+
+display: flex;
+margin-left: 240px;
+
  
   
 
@@ -92,11 +96,14 @@ text-align: center;
         justify-content: space-evenly;
        
      }
-     .pink{
+     .pink-1, .pink-2, .pink-3{
         font-weight: bold;
         font-size: 24px;
         color: #272727;
         text-decoration: underline;
+        margin-left: 85px;
+       
+       
        
      }
      .third-project{
@@ -180,10 +187,10 @@ text-align: center;
 @media screen and (max-width: 576px) {.bap-1{
    flex-direction: column;
 }
-.bold{
+.bold, .feature{
    font-size: 1.5rem;}
 
-.lorem{
+.lorem, .long{
   font-size: 0.8rem;}
   .image-1{
    width: 250px;
@@ -191,12 +198,42 @@ text-align: center;
 
   
   }
+  .writing{
+ padding-right: 1480px;
+  }
   .flower-section{
    margin-left: 10px;
-   margin-bottom: 4px;
+   margin-bottom: 4px;}
+   .first, .second, .third{
+      width: 350px;
+      height: 450px;
+      border-radius: 8px;
+   
+      
+   }
+   .three-image{
+        flex-direction: column;
+         margin-left:30px
+    
+     
+   }
+   .pink-1, .pink-2, .pink-3{
+      margin-left:60px
+   }
+   .btn-primary{
+      width: 125px;
+      height: 40px;
+   }
+     
+      
+     
+     
+     
+   
   
   
-  }
+  
+  
  
 
 
