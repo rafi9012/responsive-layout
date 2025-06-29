@@ -194,13 +194,63 @@ margin-left: 240px;
    padding-right: 42px;
    padding-top: 100px;
 }
+.fifth-project{
+   width: 1922px;
+   height: 620px;
+   
+}
+.fifth-title{
+   text-align: center;
+  
+  
+}
+.instagram{
+    font-weight: 900px;
+   font-size: 40px;
+   color: #272727;
+   margin-bottom: 24px;
+  
+
+}
+.pong{
+  
+   font-weight: normal;
+   font-size: 18px;
+    color: #272727;
+    margin-bottom: 48px;
+   
+   
+}
+.fifth-image{
+   display: flex;
+   margin-left: 240px;
+  gap: 24px;
+  margin-bottom: 128px;
+}
 
 
-@media screen and (max-width: 576px) {.bap-1, .bap-3, .dual {
+@media screen and (max-width: 576px) {.bap-1, .bap-3, .dual, .fifth-image {
    flex-direction: column;
 }
-.bold, .feature, .hot, .btn-primary{
+.fifth-image{
+   width: 100%;
+   height: 100%;
+   margin-left: 1px;
+
+}
+.fifth-title{
+   text-align: center;}
+  
+.fifth-project{
+   height: auto;
+   width: auto;
+}
+
+.bold, .feature, .hot, .btn-primary, .instagram {
    font-size: 1.5rem;}
+   .pong{
+      font-size: 0.8rem;
+   }
 
 .lorem, .long, .fact{
  font-size: 0.8rem;}
@@ -287,6 +337,7 @@ border-radius: 10px;}
       padding-left: 40px;
       
    }
+
   
 
 
