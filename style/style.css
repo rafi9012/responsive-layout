@@ -121,16 +121,28 @@ margin-left: 240px;
         padding-top: 86px;
 
      }
-     .dual-2{
-         
-        display: flex;
+     .size-1{
+      margin-left: 180px;
+     }
+     .size-2{
+      margin-left: 170px;
+      margin-right: 250px;
+     }
+     size-3{
+     
+     }
+     
 
        
 
+     
+     .class{
+      justify-content: space-evenly;
+     
      }
      .men{
         font-size: 24px;
-        padding-left: 175px;
+        padding-left: 30px;
         
         color: #272727;
         font-weight: 350px;
@@ -143,7 +155,7 @@ margin-left: 240px;
      }
      .women{
         font-size: 24px;
-        padding-left: 100px;
+        padding-right: 120px;
         color: #272727;
         font-weight: 350px;
      }
@@ -184,14 +196,14 @@ margin-left: 240px;
 }
 
 
-@media screen and (max-width: 576px) {.bap-1{
+@media screen and (max-width: 576px) {.bap-1, .bap-3, .dual {
    flex-direction: column;
 }
-.bold, .feature{
+.bold, .feature, .hot, .btn-primary{
    font-size: 1.5rem;}
 
-.lorem, .long{
-  font-size: 0.8rem;}
+.lorem, .long, .fact{
+ font-size: 0.8rem;}
   .image-1{
    width: 250px;
    height: 320px;
@@ -224,7 +236,53 @@ margin-left: 240px;
       width: 125px;
       height: 40px;
    }
-     
+  .size{
+   height: 130px;
+   width: 140px;
+  }
+  .second-project{
+  height: 1650px;
+  }
+  .third-project{
+  margin-left: 37px;
+  height: 550px;
+  width: 350px;
+  border-radius: 10px;
+  }
+  .size-1, .size-2, .size-3{
+   margin-left: 100px;
+  
+  }
+  .men, .flower, .women{
+   font-size: 0.9rem
+
+  }
+  .flower{
+   padding-left: 38px;
+  }
+  .women{
+   padding-left: 80px;
+  }
+  .first-title{
+   margin-left: 25px;
+   padding-top: 20px;
+  }
+  .fourth-project{
+   height: 800px;
+   width: 400px;
+  
+  
+  
+border-radius: 10px;}
+   .fuldani{
+      padding-left: 40px;
+      width: 250px;
+      height: 360px;
+   }
+  
+
+
+ 
       
      
      
