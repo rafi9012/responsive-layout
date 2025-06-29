@@ -210,6 +210,14 @@ margin-left: 240px;
 
   
   }
+  .first-project{
+    height: 840px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 70px;
+  }
+  
+  
   .writing{
  padding-right: 1480px;
   }
@@ -233,7 +241,7 @@ margin-left: 240px;
       margin-left:60px
    }
    .btn-primary{
-      width: 125px;
+      width: 170px;
       height: 40px;
    }
   .size{
@@ -269,15 +277,15 @@ margin-left: 240px;
   }
   .fourth-project{
    height: 800px;
-   width: 400px;
+   width: auto;
+
   
   
   
 border-radius: 10px;}
    .fuldani{
       padding-left: 40px;
-      width: 250px;
-      height: 360px;
+      
    }
   
 
